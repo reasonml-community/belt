@@ -1,6 +1,4 @@
-# rnb
-
-Name pending.
+# Belt
 
 No dependencies, or yes dependencies, but no transitive ones. Keep it stable & simple. Consistent naming. Can take the occasion to rework/rename some Js.* APIs.
 
